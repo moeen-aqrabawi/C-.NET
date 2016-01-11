@@ -1,0 +1,725 @@
+﻿/* Trios Blue Theme*/
+
+*
+{
+margin: 0;
+padding: 0;
+font-family: "Open Sans";
+font-size : 16px;
+-webkit-appearance: none;
+-moz-appearance: none;
+
+}
+
+body
+{
+  /* 
+    Clears white space around the body and gives it a grey background color.
+  */
+   margin: 0;
+   background: white;
+   width: 100%;
+   color:darkblue;
+}
+
+a
+{
+  /*
+    Clears the underline on normal links, and gives them a different text color.
+  */
+  text-decoration: none;
+  color: darkblue;
+}
+
+a:hover
+{
+   /*
+    Underlines links when the user hovers the mouse over them.
+  */
+    text-decoration: underline;
+}
+
+h1
+{
+  /*
+    Makes h1 elements smaller than their browser default.
+  */
+  font-size: 14px;
+}
+
+h2
+{
+  /* 
+    Gives h2 elements a different background color and size, 
+    and adds a bit of margin at the top to create room between the heading and the preceding element.
+  */
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.PageWrapper {
+    /*
+    Sets the total width for the entire page. Also sets the background color
+    which is used to fill the background of the Sidebar in case the MainContent section is taller than the Sidebar.
+    Uses margin: auto to center the entire page in the middle of the browser's window.
+  */
+    width: 100%;
+    height: auto;
+    padding-left:0;
+    margin-left:20px;
+    background-color: #FFFFFF;
+}
+
+
+
+#head
+{
+  /*
+    Gives the header the same width as the PageWrapper. The height creates some room for the logo
+    that is set with the background-image.
+  */
+background-image: url('~/Images/BlueButton.png');  
+width: 100%;
+float: left;
+height: 200px;
+background-repeat: repeat;
+position:relative;
+margin:auto;
+padding:20px;
+}
+
+
+.MainMenu 
+{
+    /*
+    The Menu gets a white border on all four sides.
+  */
+    border: none;
+    background-color: white;
+    color: darkblue;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    text-transform: uppercase;
+    width: 100%;
+    height: 100px;
+    background-repeat: no-repeat;
+    position: relative;
+    padding: 0px;
+    margin-left: 40px;
+}
+
+.MainMenu ul li 
+{
+        /*
+    Gives the four menu items in the main menu a width of 200px each.
+  */
+        margin-left: 0px;
+        border: none;
+        padding: 20px;
+        list-style: none;
+        width: 200px;
+        background-image: url('../../Images/BlueButton.png');
+        background-repeat: no-repeat;
+        position: relative;
+        align-items: flex-start;
+}
+
+ 
+    
+aside#Sidebar
+{
+  /*
+    The Sidebar is positioned to the right of the MainContent section. It gets the same font-size as the 
+	#MainContent section and gets a background image called Sidebar.jpg. 
+	To ensure the image is visible in (most) browsers on a small page, the element gets a minimum 
+	height of 500px. This is ignored by IE 6.
+  */
+  width: 400px;
+  margin:auto;
+  min-height: 500px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  float: left;
+  background-color:white;
+  border-left: 1px solid white;
+  border-right: 2px solid white;
+}
+
+  
+section#MainContent
+{
+  /*
+    Defines the main content area. The #MainContent element has a minimum height of 500 pixels, but can grow if necessary.
+    The font-size is 70% of its parent element, which in this case comes down to 80% of the font
+    the user has specified as the default font in the browser.
+  */
+  font-size: 14px;
+  width: 600px;
+  border-left: 1px solid white;
+  border-right: 2px solid white;
+  float: left;
+  margin-left: 20px;
+  background-color: white;
+  min-height: 500px;
+  margin-top: 100px;
+}
+
+
+.footer 
+{
+    /*
+    The footer is positioned below all other content (yet still within PageWrapper).
+    clear: both is used to clear the impact of the float properties used for #MainContent and #Sidebar.
+  */
+    width: 100%;
+    height: 200px;
+}
+
+img
+{
+    border: 0;
+
+}
+
+.ErrorMessage
+{
+color:#f00;
+}
+
+
+
+.MyButton {
+    color: white;
+    background-image: url('../../Images/Bluebackground.jpg');
+}
+
+
+                            #MobileNumber {
+                            display:none;
+                            }
+
+                            .MainNavItems_Main a {
+                                text-shadow: 0px 1px 1px rgba(2, 12, 23, 1.68);
+                            }
+                            div#Paragraph1 a,
+                            div#Paragraph2 a,
+                            div#Paragraph3 a {
+                                color: rgb(0, 46, 98);
+                                font-family: "Roboto";
+                                text-decoration: underline;
+                                font-weight: bold;
+                                transition: all 0.5s ease;
+                            }
+                            #Paragraph5,
+                            #Paragraph4,
+                            #Paragraph3,
+                            #Paragraph2,
+                            #Paragraph1 {
+                                float: left;
+                                width: 95%;
+                                font-family: "roboto";
+                                color: rgba(0, 0, 0, 0.75);
+                            }
+                            .StudentLogMobile {
+                                display: none;
+                                color: white;
+                            }
+                            div#Paragraph1 a:hover,
+                            div#Paragraph2 a:hover,
+                            div#Paragraph3 a:hover {
+                                color: #000;
+                            }
+                           
+                            #mainnav_mobile {
+                                display: none;
+                            }
+                           
+                            a,
+                            a:visited {
+                                text-decoration: none;
+                            }
+
+.Logins {
+    background-image: url('../../Images/Bluebackground.jpg');
+    color: white;
+    width: 100%;
+    height: auto;
+    float: left;
+    height: 300px;
+    background-repeat: repeat;
+    position: relative;
+}
+                            .TopLog {
+                                float: right;
+                                color: white;
+                                display: block;
+                                padding: 10px;
+                                font-size: 12px;
+                                font-family: 'Open Sans';
+                                text-transform: uppercase;
+                                font-weight: 500;
+                            }
+                           
+                            .logo_holder p {}.logo_number {
+                                float: right;
+                                color: white;
+                                text-transform: uppercase;
+                                color: white;
+                                font-weight: 500;
+                                text-align: right;
+                                margin: 10px 30px;
+                            }
+                    
+                            .logo_number {
+                                float: right;
+                                color: white;
+                                text-transform: uppercase;
+                                color: white;
+                                font-weight: 500;
+                                text-align: right;
+                                margin: 10px 30px;
+                            }
+                    
+                            #footer_holder {
+                                width: 100%;
+                                background: #393939;
+                                float: left;
+                                margin-top: 10px;
+                                background: rgba(70, 70, 70, 0.79);
+                            }
+                            #footer_logo {
+                                float: left;
+                                height: auto;
+                                margin-right: 200px;
+                            }
+                            #footer_logo img {
+                                padding: 18px 18px 18px 30px;
+                                width: 400px;
+                            }
+                            .footer_tab {
+                                width: 250px;
+                                float: left;
+                                text-align: center;
+                            }
+                            .footer_tab a {
+                                color: white;
+                                font-family: 'Open Sans';
+                                padding: 10px;
+                                display: block;
+                                background: rgba(17, 17, 17, 0.0);
+                                width: 40%;
+                                margin: 13px auto;
+                                border-radius: 5px;
+                                min-width: 173px;
+                                transition: all 0.5s ease;
+                            }
+                            .footer_tab a:hover {
+                                color: #9fd067;
+                            }
+                            .footer_tab li {
+                                text-decoration: none;
+                                list-style: none;
+                            }
+                            #footer_holder li {
+                                color: white;
+                                text-transform: uppercase;
+                                 font-family: 'Open Sans';
+                                font-weight: 700;
+                                cursor: pointer;
+                            }
+                            #footer_holder li li {
+                                color: #808080;
+                                text-transform: none;
+                                margin: 5px;
+                                font-weight: 300;
+                                 font-family: 'Open Sans';
+                                transition: color ease-in-out 0.5s;
+                            }
+                            #footer_holder li li:hover {
+                                color: white;
+                            }
+                            .ActiveMainItem a {
+                                background: white;
+                                color: black !important;
+                            }
+                          
+                            /*.AboutUsHolder,.ContactUsHolder,.ProgramsHolder,.AdmissionsHolder,.StudentServicesHolder,.*/
+                            .AllHolder {
+                                display: none;
+                            }
+                            @media screen and (max-width: 1077px) {
+                                .footer_tab {
+                                    width: 100% !important;
+                                }
+                                #footer_holder > div:nth-child(1) > img {
+                                    width: 20% !important;
+                                }
+                            }
+                            @media screen and (max-width: 719px) {
+                                #mainnav_mobile {
+                                    display: block;
+                                }
+                                #BTM_con
+                                {
+                                    display: none;
+                                }
+                                #logo_holder > img {
+                                    top: -3px !important;
+                                }
+                                .NumberPhone {
+                                    display: block;
+                                }
+                                #EastHeadHold,#LoginsEast {
+                                display:none;
+                                }
+                                  #MobileNumber {
+                                 display: block;
+                                 position: absolute;
+                                 left: 50%;
+                                 transform: translateX(-47%);
+                                 top: 85px;
+                                 width: 218px;
+                                }
+
+                                #MobileNumber a {
+                                  color: white;
+                                  background-color: #95C94F;
+                                  border-radius: 5px;
+                                  font-family: 'Open Sans';
+                                  padding: 5px 12px 5px 45px;
+  font-weight: 500;
+  font-size: 14px;
+  text-shadow: 1px 1px 1px #000000;
+  border: 1px outset rgba(0, 0, 0, 0.52);
+  -webkit-box-shadow: inset 1px 1px 1px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: inset 1px 1px 1px 0px rgba(0,0,0,0.75);
+  box-shadow: inset 1px 3px 2px 0px rgba(241, 234, 234, 0.37);
+  text-indent: 0px;
+                                }
+
+                                    #MobileNumber a i.fa.fa-phone-square {
+                                       font-size: 16px;
+  width: 1px;
+  position: relative;
+  left: -35px;
+  top: 4px;
+                                    }
+                                #Logins {
+                                    display: block;
+                                    position: absolute;
+
+                                }
+                                .logo_number {}.MainNavParent {
+                                    display: none !important;
+                                }
+                                #Programs_sidenav {
+                                    display: none;
+                                }
+                                #middlecolumn {
+                                    width: 100%;
+                                    margin-left: 0px !important;
+                                }
+                                #mainnavselect {
+                                    width: 95%;
+                                    position: absolute;
+                                    background: none;
+                                    left: 0px;
+                                    border: none;
+                                    padding-left: 60px;
+                                    font-family: 'Open Sans';
+                                    font-size: 16px;
+                                    color: white;
+                                }
+                                i.fa.fa-bars {
+                                    color: white;
+                                    font-size: 16px;
+                                    position: relative;
+                                    top: 5px;
+                                    left: 25px;
+                                }
+                            }
+                            .SocialButtonsHolder {
+                                width: 318px !important;
+                                margin: 0px auto;
+                                border: 0;
+                                margin-top: 70px;
+                            }
+                            @media screen and (max-width: 530px) {
+                                #Logins {
+                                    display: none;
+                                }
+                            }
+                            @media screen and (max-width: 530px) {
+                                .M_hide,
+                                .LiveChat {
+                                    display: none;
+                                    color:white;
+                                }
+                                .StudentLogMobile {
+                                    display: block;
+                                }
+                            }
+                            .SocialButtonsHolder img {
+                                width: 60px;
+                            }
+                            #MainNavItems {
+                                z-index: 7000;
+                            }
+                            .SpecialOff {
+                            background:rgba(255, 255, 255, 0.26) !Important;
+                            text-shadow:1px 1px 1px #000;
+                            /*text-decoration:underline;*/
+                            font-weight:500 !important;
+                            }
+
+                            a#TakeTestEast {
+                                float: left;
+                                width: 150px;
+                               
+                        
+                                border-bottom-left-radius: 15px;
+                                border-bottom-right-radius: 15px;
+
+                            }
+                            #LoginsEast {
+                                width: 100%;
+                                height: 40px;
+                                float: left;
+                            }
+                            #EastHeadHold {
+                                width:400px;
+                                float:right;
+                                margin-right: 7%;
+                            }
+                            a.TopLog.EastPhone {
+  background: rgba(0, 0, 0, 0.1);
+  padding: 11px 18px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+    text-shadow: 1px 1px 1px #000;
+}
+                                a.TopLog.EastPhone:hover {
+                                padding-bottom:15px;
+                                }
+      
+#BTM_con 
+{
+	width: 400px;
+	height: 400px;
+	float: left;
+	display: block;
+	-moz-box-shadow: 1px 1px 4px 1px rgba(23, 19, 19, 0.45);
+	-webkit-box-shadow: 1px 1px 4px 1px rgba(23, 19, 19, 0.45);
+	box-shadow: 1px 1px 4px 1px rgba(23,19,19,0.45);
+	border-radius: 19px;
+	text-shadow: 0px 1px 1px rgba(0,0,0,1);
+	background-color: #3066A6;
+}
+
+@media screen and (max-width:720px) {
+    #BTM_con {
+       display: none;
+    }
+
+    section#MainContent {
+        font-size: small;
+        margin-top: 100px;
+    }
+}
+
+/* @media screen and (max-width:1260px) */
+#btm_box_holder {
+	display: block;
+	margin: 0 auto;
+	background-color: #f0f0f0;
+}
+#bottom_content_holder {
+	width: 100%;
+	float: left;
+	padding-top: 20px;
+	background: #F6F6F6;
+	padding-bottom: 30px;
+	-moz-box-shadow: 1px -3px 5px 1px rgba(196, 196, 196, .9);
+	-webkit-box-shadow: 1px -3px 5px 1px rgba(196, 196, 196, .9);
+	box-shadow: 1px 0px 5px 2px rgba(196,196,196,0.9);
+}
+
+/* @media screen and (max-width:1151px) */
+#bottom_content_holder {
+	margin-top: 0px;
+}
+
+/* @media screen and (max-width:1151px) */
+#bottom_content_holder {
+	margin-top: 0px;
+}
+
+
+.Wbar {
+	background: #fff;
+	width: 77px;
+	height: 5px;
+	display: block;
+	margin: 45px auto 6px;
+}
+.BC_spacer {
+	margin-bottom: 18px;
+}
+.BTM_con_box h2 {
+	text-transform: uppercase;
+	color: #fff;
+	text-align: center;
+	font-weight: 500;
+	margin-top: 0px;
+	font-size: 21px;
+}
+.BTM_con_box p {
+	width: 80%;
+	display: block;
+	color: #fff;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 13px;
+}
+a, a:visited {
+	text-decoration: none;
+}
+.FindOutMore {
+	display: block;
+	padding: 15px 0;
+	color: #fff;
+	text-transform: uppercase;
+	margin: 18px auto;
+	width: 184px;
+	text-align: center;
+	font-weight: 600;
+	border: 2px solid #fff;
+	border-radius: 0;
+	transition: background-color ease-in-out .5s;
+}
+span {
+	text-shadow: 1px 0.5px rgba(0,7,158,0.22);
+}
+
+
+/* For The JSON Search*/
+
+#searcharea {
+    font-size: 14px;
+    width : 60%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #3066A6;
+    padding: 40px;
+    -webkit-border-radius: 10px 10px 0 0;
+    -moz-border-radius: 10px 10px 0 0;
+    border-radius: 10px 10px 0 0;
+}
+
+#searcharea label {
+    font-size: 12px;
+	text-transform: uppercase;
+	padding-bottom:  5px;
+    color:white;
+}
+
+#searcharea p {
+	margin: 0;
+    font-size:12px;
+    text-size-adjust: auto;
+	padding-bottom: 5px;
+}
+
+#searcharea input {
+	text-align: center;
+    font-size:14px;
+
+}
+
+#update {
+	font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+	margin: 0 auto;
+    color: darkblue;
+       padding: 40px;
+	border-top: 1px dotted #CCC;
+}
+
+#update ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#update ul li {
+	padding: 0 00px;
+	background: #EEE;
+	padding-bottom: 10px;
+	height: 110px;
+	overflow: hidden;
+	border-bottom: 1px dotted #CCC;
+	font-size: 14px;
+	margin: 0 auto;
+    color: darkblue;
+
+	-webkit-animation: myanim 1s;
+	-moz-animation: myanim 1s;
+	-o-animation: myanim 1s;
+	animation: myanim 1s;
+	
+	-webkit-transition: height 0.3s ease-out;
+	-moz-transition: height 0.3s ease-out;
+	-o-transition: height 0.3s ease-out;
+	transition: height 0.3s ease-out;
+}
+
+#update li:hover {
+	background: #FFFCE5;
+	min-height: 80%;
+	height: 250px;
+	overflow: visible;
+}
+
+#update h2 {
+	margin: 0;
+	padding: 0;
+	font-size: 1.2em;
+	padding-bottom: 5px;
+	padding-top: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: darkblue;
+	border-bottom: 1px dotted #CCC;
+	margin-bottom: 10px;
+}
+
+#update img {
+	float: left;
+	width: 100px;
+	margin-right: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+@-webkit-keyframes myanim {
+	0% { opacity: 0.3; }
+	100% { opacity: 1.0; }
+}
+
+@-moz-keyframes myanim {
+	0% { opacity: 0.3; }
+	100% { opacity: 1.0; }
+}
+
+@-o-keyframes myanim {
+	0% { opacity: 0.3; }
+	100% { opacity: 1.0; }
+}
+
+@keyframes myanim {
+	0% { opacity: 0.3; }
+	100% { opacity: 1.0; }
+}
+

@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<%@ Register src="Controls/SideControl.ascx" tagname="SideControl" tagprefix="uc1" %>
+<%@ Register Src="~/Controls/Header.ascx" TagPrefix="uc1" TagName="Header" %>
+<%@ Register Src="~/Controls/Footer.ascx" TagPrefix="uc1" TagName="Footer" %>
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head id="header" runat="server">  
+     
+    <title>triOS College of Business, Technology &amp; Healthcare - Ontario Canada</title>
+    
+</head> 
+
+ <body>
+ <form id="form2" runat="server">
+
+     <asp:ScriptManager ID="ScriptManager1" runat="server">
+          <Scripts>
+              <asp:ScriptReference Path="~/Scripts/jquery-1.10.2.min.js" />
+          </Scripts>
+      </asp:ScriptManager>
+
+ 
+     <div id="PageWrapper" class="PageWrapper">
+
+     <uc1:header runat="server" id="Header1" />
+              
+     <asp:Menu ID="Menu1" runat="server" CssClass="MainMenu" DataSourceID="SiteMapDataSource1" Orientation="Horizontal" StaticEnableDefaultPopOutImage="False" Font-Bold="False" ForeColor="White" Font-Overline="True" Font-Size="20pt" Font-Underline="True" OnMenuItemClick="Menu1_MenuItemClick"></asp:Menu>
+     <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="False" />
+         
+     
+          <aside id="Sidebar">
+               <asp:Label ID="Label1" runat="server" Text="Select Theme"></asp:Label>
+               <asp:DropDownList ID="ThemeList" runat="server" AutoPostBack="True" OnSelectedIndexChanged="ThemeList_SelectedIndexChanged">
+                   <asp:ListItem Value="BlueTheme">Blue Theme</asp:ListItem>
+                   <asp:ListItem Value="BlackTheme">Black Theme</asp:ListItem>
+               </asp:DropDownList>
+             <uc1:SideControl ID="SideControl2" runat="server" />
+           </aside>
+
+         <section id="MainContent">
+         <asp:ContentPlaceHolder ID="cpMainContent" runat="server">
+             <p>
+               <br />
+             </p>
+         </asp:ContentPlaceHolder>
+         </section>
+    
+         <uc1:Footer runat="server" ID="Footer1" />
+         
+     </div>
+ </form>
+</body>
+</html>

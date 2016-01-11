@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <!-- The URL for the ad image -->
+    <ImageUrl>~/Images/TriosAd1.jpg</ImageUrl>
+    <!-- The URL the ad redirects the user to -->
+    <NavigateUrl>http:/www.trios.com</NavigateUrl>
+    <!-- The alternate text for the image -->
+    <AlternateText>Vist us at Trios College</AlternateText>
+    <!-- The relative number of times this ad should appear -->
+    <!-- compared to the others -->
+    <Impressions>10</Impressions>
+    <!-- The topic of this ad (used for filtering) -->
+    <Keyword>Trios</Keyword>
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>~/Images/TriosAd2.jpg</ImageUrl>
+    <NavigateUrl>http://www.trios.com/career/?Section=business</NavigateUrl>
+    <AlternateText>IT Professionals</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Trios</Keyword>
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>~/Images/city-of-kitchener.jpg</ImageUrl>
+    <NavigateUrl>http://www.kitchener.ca/en/</NavigateUrl>
+    <AlternateText>City</AlternateText>
+    <Impressions>30</Impressions>
+    <Keyword>Trios</Keyword>
+  </Ad>
+</Advertisements>

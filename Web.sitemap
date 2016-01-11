@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/" title="Home"  description="home">
+    <siteMapNode url="~/Default.aspx" title="Home"  description="Home Page from Master" />
+
+    <siteMapNode url="" title="Controls"  description="Controls">
+    <siteMapNode url="~/ASPages/FileUpload.aspx" title="File Upload"  description="File Upload" />
+    <siteMapNode url="~/ASPages/FormWithValidation.aspx" title="Form"  description="Form with Validation" />
+    </siteMapNode>
+      
+      <siteMapNode url="" title="Scripts"  description="Scripts">
+    <siteMapNode url="~/ASPages/Search.aspx" title="Search JSON"  description="AJAX"/>
+    <siteMapNode url="~/ASPages/Rotate.aspx" title="Rotate IMG" descripton="jQuery"/>
+    </siteMapNode>
+
+    <siteMapNode url="~/ASPages/Login.aspx" title="Login" descreption="Login control"/>
+    <siteMapNode url="~/ASPages/AdRotator.aspx" title="Ad Rotator"  description="Ad Rotator Control" />
+
+  </siteMapNode>
+</siteMap>
