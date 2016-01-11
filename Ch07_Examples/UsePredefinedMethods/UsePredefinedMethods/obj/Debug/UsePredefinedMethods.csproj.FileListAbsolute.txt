@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\UsePredefinedMethods\UsePredefinedMethods\bin\Debug\UsePredefinedMethods.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\UsePredefinedMethods\UsePredefinedMethods\bin\Debug\UsePredefinedMethods.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\UsePredefinedMethods\UsePredefinedMethods\bin\Debug\UsePredefinedMethods.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\UsePredefinedMethods\UsePredefinedMethods\obj\Debug\UsePredefinedMethods.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\UsePredefinedMethods\UsePredefinedMethods\obj\Debug\UsePredefinedMethods.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\UsePredefinedMethods\UsePredefinedMethods\obj\Debug\UsePredefinedMethods.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\UsePredefinedMethods\UsePredefinedMethods\bin\Debug\UsePredefinedMethods.exe.config
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\UsePredefinedMethods\UsePredefinedMethods\obj\Debug\UsePredefinedMethods.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\UsePredefinedMethods\UsePredefinedMethods\obj\Debug\UsePredefinedMethods.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\UsePredefinedMethods\UsePredefinedMethods\bin\Debug\UsePredefinedMethods.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\UsePredefinedMethods\UsePredefinedMethods\bin\Debug\UsePredefinedMethods.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\UsePredefinedMethods\UsePredefinedMethods\obj\Debug\UsePredefinedMethods.csprojResolveAssemblyReference.cache

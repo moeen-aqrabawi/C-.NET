@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\StateControlled\StateControlled\bin\Debug\StateControlled.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\StateControlled\StateControlled\bin\Debug\StateControlled.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\StateControlled\StateControlled\bin\Debug\StateControlled.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\StateControlled\StateControlled\obj\Debug\StateControlled.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\StateControlled\StateControlled\obj\Debug\StateControlled.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\StateControlled\StateControlled\obj\Debug\StateControlled.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\LargestValue\LargestValue\bin\Debug\LargestValue.exe.config
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\LargestValue\LargestValue\bin\Debug\LargestValue.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\LargestValue\LargestValue\bin\Debug\LargestValue.pdb
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\LargestValue\LargestValue\obj\Debug\LargestValue.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\LargestValue\LargestValue\obj\Debug\LargestValue.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\LargestValue\LargestValue\obj\Debug\LargestValue.pdb
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Examples\LargestValue\LargestValue\bin\Debug\LargestValue.exe.config
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Examples\LargestValue\LargestValue\obj\Debug\LargestValue.exe
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Examples\LargestValue\LargestValue\obj\Debug\LargestValue.pdb

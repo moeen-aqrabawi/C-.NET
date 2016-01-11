@@ -1,0 +1,11 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Examples\LinqArrayExample\LinqArrayExample\bin\Debug\LinqArrayExample.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Examples\LinqArrayExample\LinqArrayExample\bin\Debug\LinqArrayExample.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Examples\LinqArrayExample\LinqArrayExample\bin\Debug\LinqArrayExample.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Examples\LinqArrayExample\LinqArrayExample\obj\Debug\LinqArrayExample.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch14\Ch14_Examples\LinqArrayExample\LinqArrayExample\obj\Debug\LinqArrayExample.pdb
+C:\CSharp_4thEdition\RTP\Ch14\Ch14_Examples\LinqArrayExample\LinqArrayExample\bin\Debug\LinqArrayExample.exe.config
+C:\CSharp_4thEdition\RTP\Ch14\Ch14_Examples\LinqArrayExample\LinqArrayExample\obj\Debug\LinqArrayExample.exe
+C:\CSharp_4thEdition\RTP\Ch14\Ch14_Examples\LinqArrayExample\LinqArrayExample\obj\Debug\LinqArrayExample.pdb
+C:\CSharp_4thEdition\RTP\Ch14\Ch14_Examples\LinqArrayExample\LinqArrayExample\bin\Debug\LinqArrayExample.exe
+C:\CSharp_4thEdition\RTP\Ch14\Ch14_Examples\LinqArrayExample\LinqArrayExample\bin\Debug\LinqArrayExample.pdb
+C:\CSharp_4thEdition\RTP\Ch14\Ch14_Examples\LinqArrayExample\LinqArrayExample\obj\Debug\LinqArrayExample.csprojResolveAssemblyReference.cache

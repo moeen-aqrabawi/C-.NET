@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\StackExample\StackExample\bin\Debug\StackExample.exe.config
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\StackExample\StackExample\obj\Debug\StackExample.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\StackExample\StackExample\bin\Debug\StackExample.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\StackExample\StackExample\bin\Debug\StackExample.pdb
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\StackExample\StackExample\obj\Debug\StackExample.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\StackExample\StackExample\obj\Debug\StackExample.pdb
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\StackExample\StackExample\bin\Debug\StackExample.exe.config
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\StackExample\StackExample\obj\Debug\StackExample.exe
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\StackExample\StackExample\obj\Debug\StackExample.pdb
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\StackExample\StackExample\bin\Debug\StackExample.exe
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\StackExample\StackExample\bin\Debug\StackExample.pdb
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\StackExample\StackExample\obj\Debug\StackExample.csprojResolveAssemblyReference.cache

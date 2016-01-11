@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache

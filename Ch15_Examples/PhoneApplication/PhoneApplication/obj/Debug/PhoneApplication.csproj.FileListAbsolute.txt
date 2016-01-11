@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Examples\PhoneApplication\PhoneApplication\Bin\Debug\ApplicationIcon.png
+C:\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Examples\PhoneApplication\PhoneApplication\Bin\Debug\Background.png
+C:\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Examples\PhoneApplication\PhoneApplication\Bin\Debug\PhoneApplication.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Examples\PhoneApplication\PhoneApplication\Bin\Debug\PhoneApplication.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Examples\PhoneApplication\PhoneApplication\Bin\Debug\AppManifest.xaml
+C:\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Examples\PhoneApplication\PhoneApplication\Bin\Debug\PhoneApplication.xap
+C:\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Examples\PhoneApplication\PhoneApplication\obj\Debug\App.g.i.cs
+C:\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Examples\PhoneApplication\PhoneApplication\obj\Debug\MainPage.g.i.cs
+C:\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Examples\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.g.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Examples\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Examples\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch15\Ch15_Examples\PhoneApplication\PhoneApplication\obj\Debug\XapCacheFile.xml

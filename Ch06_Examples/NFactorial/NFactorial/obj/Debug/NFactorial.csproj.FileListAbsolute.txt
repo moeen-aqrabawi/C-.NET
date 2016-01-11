@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NFactorial\NFactorial\bin\Debug\NFactorial.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NFactorial\NFactorial\bin\Debug\NFactorial.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NFactorial\NFactorial\bin\Debug\NFactorial.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NFactorial\NFactorial\obj\Debug\NFactorial.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NFactorial\NFactorial\obj\Debug\NFactorial.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NFactorial\NFactorial\obj\Debug\NFactorial.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\NFactorial\NFactorial\bin\Debug\NFactorial.exe.config
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\NFactorial\NFactorial\obj\Debug\NFactorial.exe
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\NFactorial\NFactorial\obj\Debug\NFactorial.pdb
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\NFactorial\NFactorial\bin\Debug\NFactorial.exe
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\NFactorial\NFactorial\bin\Debug\NFactorial.pdb
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\NFactorial\NFactorial\obj\Debug\NFactorial.csprojResolveAssemblyReference.cache

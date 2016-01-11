@@ -1,0 +1,7 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\bin\Debug\Intramural.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\bin\Debug\Intramural.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\bin\Debug\Organization.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\bin\Debug\Organization.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\obj\Debug\Intramural.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\obj\Debug\Intramural.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\obj\Debug\Intramural.pdb

@@ -1,0 +1,5 @@
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\SquareExample\SquareExample\bin\Debug\SquareExample.exe.config
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\SquareExample\SquareExample\bin\Debug\SquareExample.exe
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\SquareExample\SquareExample\bin\Debug\SquareExample.pdb
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\SquareExample\SquareExample\obj\Debug\SquareExample.exe
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\SquareExample\SquareExample\obj\Debug\SquareExample.pdb

@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\JoggingDistance\JoggingDistance\bin\Debug\JoggingDistance.exe.config
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\JoggingDistance\JoggingDistance\bin\Debug\JoggingDistance.exe
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\JoggingDistance\JoggingDistance\bin\Debug\JoggingDistance.pdb
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\JoggingDistance\JoggingDistance\obj\Debug\JoggingDistance.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\JoggingDistance\JoggingDistance\obj\Debug\JoggingDistance.exe
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\JoggingDistance\JoggingDistance\obj\Debug\JoggingDistance.pdb
+C:\CSharp_4thEdition\RTP\Ch03\Ch03_Examples\JoggingDistance\JoggingDistance\bin\Debug\JoggingDistance.exe.config
+C:\CSharp_4thEdition\RTP\Ch03\Ch03_Examples\JoggingDistance\JoggingDistance\obj\Debug\JoggingDistance.exe
+C:\CSharp_4thEdition\RTP\Ch03\Ch03_Examples\JoggingDistance\JoggingDistance\obj\Debug\JoggingDistance.pdb
+C:\CSharp_4thEdition\RTP\Ch03\Ch03_Examples\JoggingDistance\JoggingDistance\bin\Debug\JoggingDistance.exe
+C:\CSharp_4thEdition\RTP\Ch03\Ch03_Examples\JoggingDistance\JoggingDistance\bin\Debug\JoggingDistance.pdb
+C:\CSharp_4thEdition\RTP\Ch03\Ch03_Examples\JoggingDistance\JoggingDistance\obj\Debug\JoggingDistance.csprojResolveAssemblyReference.cache

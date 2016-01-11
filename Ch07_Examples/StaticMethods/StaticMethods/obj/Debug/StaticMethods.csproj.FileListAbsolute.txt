@@ -1,0 +1,11 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\StaticMethods\StaticMethods\bin\Debug\StaticMethods.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\StaticMethods\StaticMethods\bin\Debug\StaticMethods.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\StaticMethods\StaticMethods\bin\Debug\StaticMethods.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\StaticMethods\StaticMethods\obj\Debug\StaticMethods.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\StaticMethods\StaticMethods\obj\Debug\StaticMethods.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\StaticMethods\StaticMethods\bin\Debug\StaticMethods.exe.config
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\StaticMethods\StaticMethods\obj\Debug\StaticMethods.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\StaticMethods\StaticMethods\obj\Debug\StaticMethods.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\StaticMethods\StaticMethods\bin\Debug\StaticMethods.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\StaticMethods\StaticMethods\bin\Debug\StaticMethods.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\StaticMethods\StaticMethods\obj\Debug\StaticMethods.csprojResolveAssemblyReference.cache

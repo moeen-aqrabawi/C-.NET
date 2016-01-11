@@ -1,0 +1,10 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Stack\Stack\bin\Debug\Stack.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Stack\Stack\bin\Debug\Stack.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Stack\Stack\bin\Debug\Stack.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Stack\Stack\obj\Debug\Stack.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Stack\Stack\obj\Debug\Stack.pdb
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\StackImplementedByArray\Stack\bin\Debug\Stack.exe.config
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\StackImplementedByArray\Stack\obj\Debug\Stack.exe
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\StackImplementedByArray\Stack\obj\Debug\Stack.pdb
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\StackImplementedByArray\Stack\bin\Debug\Stack.exe
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\StackImplementedByArray\Stack\bin\Debug\Stack.pdb

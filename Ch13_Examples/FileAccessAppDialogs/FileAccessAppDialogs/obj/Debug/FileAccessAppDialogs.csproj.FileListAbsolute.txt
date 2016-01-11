@@ -1,0 +1,27 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\bin\Debug\FileAccessAppDialogs.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\bin\Debug\FileAccessAppDialogs.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\bin\Debug\FileAccessAppDialogs.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.FrmFileDialogs.resources
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\bin\Debug\FileAccessAppDialogs.exe.config
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.exe
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.pdb
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\bin\Debug\FileAccessAppDialogs.exe
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\bin\Debug\FileAccessAppDialogs.pdb
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.FrmFileDialogs.resources
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.Properties.Resources.resources
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Trios\C#\Data Files\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\bin\Debug\FileAccessAppDialogs.exe.config
+\\psf\Home\Documents\Trios\C#\Data Files\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.exe
+\\psf\Home\Documents\Trios\C#\Data Files\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.pdb
+\\psf\Home\Documents\Trios\C#\Data Files\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\bin\Debug\FileAccessAppDialogs.exe
+\\psf\Home\Documents\Trios\C#\Data Files\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\bin\Debug\FileAccessAppDialogs.pdb
+\\psf\Home\Documents\Trios\C#\Data Files\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Trios\C#\Data Files\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.FrmFileDialogs.resources
+\\psf\Home\Documents\Trios\C#\Data Files\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.Properties.Resources.resources
+\\psf\Home\Documents\Trios\C#\Data Files\Ch13_Examples\FileAccessAppDialogs\FileAccessAppDialogs\obj\Debug\FileAccessAppDialogs.csproj.GenerateResource.Cache

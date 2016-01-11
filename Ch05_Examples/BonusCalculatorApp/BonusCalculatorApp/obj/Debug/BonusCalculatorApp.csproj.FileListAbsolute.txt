@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\BonusCalculatorApp\BonusCalculatorApp\bin\Debug\BonusCalculatorApp.exe.config
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\BonusCalculatorApp\BonusCalculatorApp\bin\Debug\BonusCalculatorApp.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\BonusCalculatorApp\BonusCalculatorApp\bin\Debug\BonusCalculatorApp.pdb
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.pdb
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Examples\BonusCalculatorApp\BonusCalculatorApp\bin\Debug\BonusCalculatorApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Examples\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.exe
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Examples\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.pdb

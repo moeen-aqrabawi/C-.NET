@@ -1,0 +1,5 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NestedLoop\NestedLoop\bin\Debug\NestedLoop.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NestedLoop\NestedLoop\obj\Debug\NestedLoop.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NestedLoop\NestedLoop\obj\Debug\NestedLoop.pdb

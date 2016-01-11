@@ -1,0 +1,8 @@
+C:\CSharp_4thEdition\Ch09\Ch09_Examples\Windows0\Windows0\bin\Debug\Windows0.exe.config
+C:\CSharp_4thEdition\Ch09\Ch09_Examples\Windows0\Windows0\obj\Debug\Windows0.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch09\Ch09_Examples\Windows0\Windows0\obj\Debug\Windows0.Properties.Resources.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Examples\Windows0\Windows0\obj\Debug\Windows0.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\Ch09\Ch09_Examples\Windows0\Windows0\bin\Debug\Windows0.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Examples\Windows0\Windows0\bin\Debug\Windows0.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Examples\Windows0\Windows0\obj\Debug\Windows0.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Examples\Windows0\Windows0\obj\Debug\Windows0.pdb

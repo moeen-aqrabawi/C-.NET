@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Club\bin\Debug\Club.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Club\bin\Debug\Club.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Club\bin\Debug\IFunding.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Club\bin\Debug\Organization.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Club\bin\Debug\IFunding.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Club\bin\Debug\Organization.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Club\obj\Debug\Club.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Club\obj\Debug\Club.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Club\obj\Debug\Club.pdb

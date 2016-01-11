@@ -1,0 +1,5 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\InputValuesLoop\InputValuesLoop\bin\Debug\InputValuesLoop.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\InputValuesLoop\InputValuesLoop\bin\Debug\InputValuesLoop.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\InputValuesLoop\InputValuesLoop\bin\Debug\InputValuesLoop.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\InputValuesLoop\InputValuesLoop\obj\Debug\InputValuesLoop.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\InputValuesLoop\InputValuesLoop\obj\Debug\InputValuesLoop.pdb

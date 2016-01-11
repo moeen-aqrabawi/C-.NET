@@ -1,0 +1,8 @@
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\SquareInputValue\SquareInputValue\bin\Debug\SquareInputValue.exe.config
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\SquareInputValue\SquareInputValue\bin\Debug\SquareInputValue.exe
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\SquareInputValue\SquareInputValue\bin\Debug\SquareInputValue.pdb
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\SquareInputValue\SquareInputValue\obj\Debug\SquareInputValue.exe
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\SquareInputValue\SquareInputValue\obj\Debug\SquareInputValue.pdb
+C:\CSharp_4thEdition\RTP\Ch03\Ch03_Examples\SquareInputValue\SquareInputValue\bin\Debug\SquareInputValue.exe.config
+C:\CSharp_4thEdition\RTP\Ch03\Ch03_Examples\SquareInputValue\SquareInputValue\obj\Debug\SquareInputValue.exe
+C:\CSharp_4thEdition\RTP\Ch03\Ch03_Examples\SquareInputValue\SquareInputValue\obj\Debug\SquareInputValue.pdb

@@ -1,0 +1,11 @@
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\CarpetCalculatorApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\CarpetCalculatorApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\CarpetCalculatorApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\CarpetCalculatorApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\CarpetCalculatorApp.pdb
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\CarpetCalculatorApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\CarpetCalculatorApp.exe
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\CarpetCalculatorApp.pdb
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\CarpetCalculatorApp.exe
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\CarpetCalculatorApp.pdb
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\CarpetCalculatorApp.csprojResolveAssemblyReference.cache

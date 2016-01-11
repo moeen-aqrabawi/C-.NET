@@ -1,0 +1,5 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\PrimeRead\PrimeRead\bin\Debug\PrimeRead.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\PrimeRead\PrimeRead\bin\Debug\PrimeRead.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\PrimeRead\PrimeRead\bin\Debug\PrimeRead.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\PrimeRead\PrimeRead\obj\Debug\PrimeRead.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\PrimeRead\PrimeRead\obj\Debug\PrimeRead.pdb

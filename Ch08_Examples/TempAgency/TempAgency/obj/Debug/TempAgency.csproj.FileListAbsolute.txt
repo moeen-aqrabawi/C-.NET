@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\TempAgency\TempAgency\bin\Debug\TempAgency.exe.config
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\TempAgency\TempAgency\bin\Debug\TempAgency.exe
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\TempAgency\TempAgency\bin\Debug\TempAgency.pdb
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\TempAgency\TempAgency\obj\Debug\TempAgency.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\TempAgency\TempAgency\obj\Debug\TempAgency.exe
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\TempAgency\TempAgency\obj\Debug\TempAgency.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\CSharpProjects\WebControls\", ".", "{554CB3BF-0CCE-4F55-BD78-BF74C718D5C8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/WebControls"
+		Debug.AspNetCompiler.PhysicalPath = "..\WebControls\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebControls\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebControls"
+		Release.AspNetCompiler.PhysicalPath = "..\WebControls\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebControls\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1305"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554CB3BF-0CCE-4F55-BD78-BF74C718D5C8}.Debug|.NET.ActiveCfg = Debug|.NET
+		{554CB3BF-0CCE-4F55-BD78-BF74C718D5C8}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

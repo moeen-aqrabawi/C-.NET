@@ -1,0 +1,4 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\LibrayFiles\ITraveler\ITraveler\bin\Debug\ITraveler.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\LibrayFiles\ITraveler\ITraveler\bin\Debug\ITraveler.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\LibrayFiles\ITraveler\ITraveler\obj\Debug\ITraveler.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\LibrayFiles\ITraveler\ITraveler\obj\Debug\ITraveler.pdb

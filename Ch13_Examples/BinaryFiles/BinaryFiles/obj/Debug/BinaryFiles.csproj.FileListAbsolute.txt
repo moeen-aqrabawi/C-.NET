@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\BinaryFiles\BinaryFiles\bin\Debug\BinaryFiles.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\BinaryFiles\BinaryFiles\bin\Debug\BinaryFiles.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\BinaryFiles\BinaryFiles\bin\Debug\BinaryFiles.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\BinaryFiles\BinaryFiles\obj\Debug\BinaryFiles.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\BinaryFiles\BinaryFiles\obj\Debug\BinaryFiles.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\BinaryFiles\BinaryFiles\obj\Debug\BinaryFiles.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\BinaryFiles\BinaryFiles\bin\Debug\BinaryFiles.exe.config
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\BinaryFiles\BinaryFiles\obj\Debug\BinaryFiles.exe
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\BinaryFiles\BinaryFiles\obj\Debug\BinaryFiles.pdb
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\BinaryFiles\BinaryFiles\bin\Debug\BinaryFiles.exe
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\BinaryFiles\BinaryFiles\bin\Debug\BinaryFiles.pdb
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\BinaryFiles\BinaryFiles\obj\Debug\BinaryFiles.csprojResolveAssemblyReference.cache

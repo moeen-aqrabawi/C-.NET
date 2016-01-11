@@ -1,0 +1,12 @@
+C:\CSharpProjects\Ch01\ProgrammingMessage\ProgrammingMessage\bin\Debug\ProgrammingMessage.exe.config
+C:\CSharpProjects\Ch01\ProgrammingMessage\ProgrammingMessage\bin\Debug\ProgrammingMessage.exe
+C:\CSharpProjects\Ch01\ProgrammingMessage\ProgrammingMessage\bin\Debug\ProgrammingMessage.pdb
+C:\CSharpProjects\Ch01\ProgrammingMessage\ProgrammingMessage\obj\Debug\ProgrammingMessage.csprojResolveAssemblyReference.cache
+C:\CSharpProjects\Ch01\ProgrammingMessage\ProgrammingMessage\obj\Debug\ProgrammingMessage.exe
+C:\CSharpProjects\Ch01\ProgrammingMessage\ProgrammingMessage\obj\Debug\ProgrammingMessage.pdb
+C:\CSharp_4thEdition\Ch01\Ch01_Examples\ProgrammingMessage\ProgrammingMessage\bin\Debug\ProgrammingMessage.exe.config
+C:\CSharp_4thEdition\Ch01\Ch01_Examples\ProgrammingMessage\ProgrammingMessage\obj\Debug\ProgrammingMessage.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Examples\ProgrammingMessage\ProgrammingMessage\obj\Debug\ProgrammingMessage.pdb
+C:\CSharp_4thEdition\Ch01\Ch01_Examples\ProgrammingMessage\ProgrammingMessage\bin\Debug\ProgrammingMessage.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Examples\ProgrammingMessage\ProgrammingMessage\bin\Debug\ProgrammingMessage.pdb
+C:\CSharp_4thEdition\Ch01\Ch01_Examples\ProgrammingMessage\ProgrammingMessage\obj\Debug\ProgrammingMessage.csprojResolveAssemblyReference.cache

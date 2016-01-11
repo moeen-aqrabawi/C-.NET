@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GUIControls.Form1.resources
+obj\Debug\GUIControls.Properties.Resources.resources
+obj\Debug\GUIControls.csproj.GenerateResource.Cache
+bin\Debug\GUIControls.exe
+bin\Debug\GUIControls.pdb
+obj\Debug\GUIControls.exe
+obj\Debug\GUIControls.pdb

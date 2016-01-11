@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\CustomException\CustomException\bin\Debug\CustomException.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\CustomException\CustomException\obj\Debug\CustomException.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\CustomException\CustomException\bin\Debug\CustomException.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\CustomException\CustomException\bin\Debug\CustomException.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\CustomException\CustomException\obj\Debug\CustomException.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\CustomException\CustomException\obj\Debug\CustomException.pdb
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\CustomException\CustomException\bin\Debug\CustomException.exe.config
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\CustomException\CustomException\obj\Debug\CustomException.exe
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\CustomException\CustomException\obj\Debug\CustomException.pdb
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\CustomException\CustomException\bin\Debug\CustomException.exe
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\CustomException\CustomException\bin\Debug\CustomException.pdb
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\CustomException\CustomException\obj\Debug\CustomException.csprojResolveAssemblyReference.cache

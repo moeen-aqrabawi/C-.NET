@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Diner.Properties.Resources.resources
+obj\Debug\Diner.csproj.GenerateResource.Cache
+bin\Debug\Diner.exe
+bin\Debug\Diner.pdb
+obj\Debug\Diner.exe
+obj\Debug\Diner.pdb
+obj\Debug\Diner.OrderGUI.resources

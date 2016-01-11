@@ -1,0 +1,8 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NFactorialRecursively\NFactorialRecursively\bin\Debug\NFactorialRecursively.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NFactorialRecursively\NFactorialRecursively\bin\Debug\NFactorialRecursively.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NFactorialRecursively\NFactorialRecursively\bin\Debug\NFactorialRecursively.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NFactorialRecursively\NFactorialRecursively\obj\Debug\NFactorialRecursively.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NFactorialRecursively\NFactorialRecursively\obj\Debug\NFactorialRecursively.pdb
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\NFactorialRecursively\NFactorialRecursively\bin\Debug\NFactorialRecursively.exe.config
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\NFactorialRecursively\NFactorialRecursively\obj\Debug\NFactorialRecursively.exe
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\NFactorialRecursively\NFactorialRecursively\obj\Debug\NFactorialRecursively.pdb

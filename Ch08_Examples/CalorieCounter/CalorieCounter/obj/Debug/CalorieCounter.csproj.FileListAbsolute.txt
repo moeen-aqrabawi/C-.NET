@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe.config
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.pdb
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.pdb
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe.config
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.exe
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.pdb
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.pdb
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csprojResolveAssemblyReference.cache

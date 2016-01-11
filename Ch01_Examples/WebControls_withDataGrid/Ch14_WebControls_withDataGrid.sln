@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\Ch14_WebControls_withDataGrid\", ".", "{E787A3A3-3ECD-47ED-A7EE-165ACD4F2DE7}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/Ch14_WebControls_withDataGrid"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\Documents and Settings\B_Doyle\My Documents\2ndEdition_C#\AuthorSeconds\Chapter14\Data\Ch14_WebControls_withDataGrid\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Ch14_WebControls_withDataGrid\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Ch14_WebControls_withDataGrid"
+		Release.AspNetCompiler.PhysicalPath = "..\..\Documents and Settings\B_Doyle\My Documents\2ndEdition_C#\AuthorSeconds\Chapter14\Data\Ch14_WebControls_withDataGrid\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Ch14_WebControls_withDataGrid\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1305"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E787A3A3-3ECD-47ED-A7EE-165ACD4F2DE7}.Debug|.NET.ActiveCfg = Debug|.NET
+		{E787A3A3-3ECD-47ED-A7EE-165ACD4F2DE7}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

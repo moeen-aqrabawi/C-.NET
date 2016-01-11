@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\ExceptionExample\ExceptionExample\bin\Debug\ExceptionExample.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\ExceptionExample\ExceptionExample\bin\Debug\ExceptionExample.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\ExceptionExample\ExceptionExample\bin\Debug\ExceptionExample.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\ExceptionExample\ExceptionExample\obj\Debug\ExceptionExample.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\ExceptionExample\ExceptionExample\obj\Debug\ExceptionExample.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\ExceptionExample\ExceptionExample\obj\Debug\ExceptionExample.pdb
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\ExceptionExample\ExceptionExample\bin\Debug\ExceptionExample.exe.config
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\ExceptionExample\ExceptionExample\obj\Debug\ExceptionExample.exe
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\ExceptionExample\ExceptionExample\obj\Debug\ExceptionExample.pdb
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\ExceptionExample\ExceptionExample\bin\Debug\ExceptionExample.exe
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\ExceptionExample\ExceptionExample\bin\Debug\ExceptionExample.pdb
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\ExceptionExample\ExceptionExample\obj\Debug\ExceptionExample.csprojResolveAssemblyReference.cache

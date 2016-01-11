@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.exe.config
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.pdb
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.pdb
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.exe.config
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.exe
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.pdb

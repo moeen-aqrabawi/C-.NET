@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\RealEstateApp\RealEstateApp\bin\Debug\RealEstateApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\RealEstateApp\RealEstateApp\bin\Debug\RealEstateApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\RealEstateApp\RealEstateApp\bin\Debug\RealEstateApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Examples\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\RealEstateApp\RealEstateApp\bin\Debug\RealEstateApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp.exe
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp.pdb
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\RealEstateApp\RealEstateApp\bin\Debug\RealEstateApp.exe
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\RealEstateApp\RealEstateApp\bin\Debug\RealEstateApp.pdb
+C:\CSharp_4thEdition\RTP\Ch04\Ch04_Examples\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp.csprojResolveAssemblyReference.cache

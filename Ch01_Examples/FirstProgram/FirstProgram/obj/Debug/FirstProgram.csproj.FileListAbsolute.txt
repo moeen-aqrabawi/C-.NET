@@ -1,0 +1,8 @@
+C:\CSharpProjects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+C:\CSharpProjects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+C:\CSharpProjects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\CSharpProjects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+C:\CSharpProjects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
+C:\CSharp_4thEdition\Ch01\Ch01_Examples\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+C:\CSharp_4thEdition\Ch01\Ch01_Examples\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+C:\CSharp_4thEdition\Ch01\Ch01_Examples\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb

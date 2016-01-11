@@ -1,0 +1,11 @@
+C:\CSharp_4thEdition\Ch10\Ch10_Examples\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+C:\CSharp_4thEdition\Ch10\Ch10_Examples\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe
+C:\CSharp_4thEdition\Ch10\Ch10_Examples\DelegateExample\DelegateExample\bin\Debug\DelegateExample.pdb
+C:\CSharp_4thEdition\Ch10\Ch10_Examples\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch10\Ch10_Examples\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+C:\CSharp_4thEdition\Ch10\Ch10_Examples\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Examples\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Examples\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Examples\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Examples\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe
+C:\CSharp_4thEdition\RTP\Ch10\Ch10_Examples\DelegateExample\DelegateExample\bin\Debug\DelegateExample.pdb

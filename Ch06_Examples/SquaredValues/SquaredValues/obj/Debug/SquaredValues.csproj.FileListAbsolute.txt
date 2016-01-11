@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\SquaredValues\SquaredValues\bin\Debug\SquaredValues.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\SquaredValues\SquaredValues\bin\Debug\SquaredValues.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\SquaredValues\SquaredValues\bin\Debug\SquaredValues.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\SquaredValues\SquaredValues\obj\Debug\SquaredValues.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\SquaredValues\SquaredValues\obj\Debug\SquaredValues.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\SquaredValues\SquaredValues\obj\Debug\SquaredValues.pdb

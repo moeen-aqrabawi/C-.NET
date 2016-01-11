@@ -1,0 +1,11 @@
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\WeeklyCalorieCounter\WeeklyCalorieCounter\bin\Debug\WeeklyCalorieCounter.exe.config
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\WeeklyCalorieCounter\WeeklyCalorieCounter\bin\Debug\WeeklyCalorieCounter.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\WeeklyCalorieCounter\WeeklyCalorieCounter\bin\Debug\WeeklyCalorieCounter.pdb
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\WeeklyCalorieCounter\WeeklyCalorieCounter\obj\Debug\WeeklyCalorieCounter.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Examples\WeeklyCalorieCounter\WeeklyCalorieCounter\obj\Debug\WeeklyCalorieCounter.pdb
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\WeeklyCalorieCounter\WeeklyCalorieCounter\bin\Debug\WeeklyCalorieCounter.exe.config
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\WeeklyCalorieCounter\WeeklyCalorieCounter\obj\Debug\WeeklyCalorieCounter.exe
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\WeeklyCalorieCounter\WeeklyCalorieCounter\obj\Debug\WeeklyCalorieCounter.pdb
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\WeeklyCalorieCounter\WeeklyCalorieCounter\bin\Debug\WeeklyCalorieCounter.exe
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\WeeklyCalorieCounter\WeeklyCalorieCounter\bin\Debug\WeeklyCalorieCounter.pdb
+C:\CSharp_4thEdition\RTP\Ch08\Ch08_Examples\WeeklyCalorieCounter\WeeklyCalorieCounter\obj\Debug\WeeklyCalorieCounter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\Parameters\Parameters\bin\Debug\Parameters.exe.config
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\Parameters\Parameters\bin\Debug\Parameters.exe
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\Parameters\Parameters\bin\Debug\Parameters.pdb
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\Parameters\Parameters\obj\Debug\Parameters.exe
+C:\CSharp_4thEdition\Ch03\Ch03_Examples\Parameters\Parameters\obj\Debug\Parameters.pdb
+C:\CSharp_4thEdition\RTP\Ch03\Ch03_Examples\Parameters\Parameters\bin\Debug\Parameters.exe.config
+C:\CSharp_4thEdition\RTP\Ch03\Ch03_Examples\Parameters\Parameters\obj\Debug\Parameters.exe
+C:\CSharp_4thEdition\RTP\Ch03\Ch03_Examples\Parameters\Parameters\obj\Debug\Parameters.pdb

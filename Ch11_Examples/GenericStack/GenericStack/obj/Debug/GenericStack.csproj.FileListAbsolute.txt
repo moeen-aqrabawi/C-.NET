@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\GenericStack\GenericStack\bin\Debug\GenericStack.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\GenericStack\GenericStack\bin\Debug\GenericStack.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\GenericStack\GenericStack\bin\Debug\GenericStack.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\GenericStack\GenericStack\obj\Debug\GenericStack.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\GenericStack\GenericStack\obj\Debug\GenericStack.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\GenericStack\GenericStack\obj\Debug\GenericStack.pdb
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\GenericStack\GenericStack\bin\Debug\GenericStack.exe.config
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\GenericStack\GenericStack\obj\Debug\GenericStack.exe
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\GenericStack\GenericStack\obj\Debug\GenericStack.pdb
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\GenericStack\GenericStack\bin\Debug\GenericStack.exe
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\GenericStack\GenericStack\bin\Debug\GenericStack.pdb
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\GenericStack\GenericStack\obj\Debug\GenericStack.csprojResolveAssemblyReference.cache

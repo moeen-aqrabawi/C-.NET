@@ -1,0 +1,28 @@
+﻿<Window x:Name="RegForm" x:Class="WPF_Example.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Registration Form" Height="350" Width="525">
+    <Grid Background="#FF3B51DC">
+        <Grid.BindingGroup>
+            <BindingGroup/>
+        </Grid.BindingGroup>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="87*"/>
+            <RowDefinition Height="233*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Name:" HorizontalAlignment="Left" Margin="97,23,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.877,0.567" FontSize="16" Foreground="#FFEBF508"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="165,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="260" FontSize="16" Foreground="#FF060606" IsTabStop="False"/>
+        <CheckBox x:Name="ckBxSwim" Content="Swim - $50" HorizontalAlignment="Left" Margin="64,37,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16" Foreground="#FFEBF508" IsTabStop="False" Checked="ComputeCharges"/>
+        <CheckBox x:Name="ckBxSnorkel" Content="Snorkel - $25" HorizontalAlignment="Left" Margin="64,76,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16" Foreground="#FFEBF508" IsTabStop="False" Checked="ComputeCharges"/>
+        <CheckBox x:Name="ckBxDive" Content="Dive - $100" HorizontalAlignment="Left" Margin="64,111,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16" Foreground="#FFEBF508" IsTabStop="False" Checked="ComputeCharges"/>
+        <GroupBox x:Name="skillGroup" Header="Skill level" HorizontalAlignment="Left" Margin="292,0,0,0" Grid.Row="1" VerticalAlignment="Top" Height="143" Width="138" FontSize="16" Foreground="#FFEBF508">
+            <RadioButton x:Name="radBeginner" Content="Beginner" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="104" Margin="18,15,0,0" FontSize="16" Foreground="#FFEBF508" IsTabStop="False" GroupName="skillGroup" Checked="ComputeCharges"/>
+        </GroupBox>
+        <RadioButton x:Name="radInterm" Content="Intermediate" HorizontalAlignment="Left" Margin="316,65,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16" Foreground="#FFEBF508" IsTabStop="False" GroupName="skillGroup" Checked="ComputeCharges"/>
+        <RadioButton x:Name="radAdvanced" Content="Advanced" HorizontalAlignment="Left" Margin="317,95,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16" Foreground="#FFEBF508" IsTabStop="False" GroupName="skillGroup" Checked="ComputeCharges"/>
+        <Label Content="Select lesson" HorizontalAlignment="Left" Margin="62,0,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16" Foreground="#FFEBF508"/>
+        <Label Content="Total: " HorizontalAlignment="Left" Margin="44,174,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16" Foreground="#FFE3F904"/>
+        <TextBox x:Name="txtBxResult" HorizontalAlignment="Left" Height="23" Margin="105,178,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16" Foreground="#FF060606" IsEnabled="False"/>
+        <Label x:Name="lblMsg" HorizontalAlignment="Left" Margin="244,174,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16" Foreground="#FFE3F904" Width="250"/>
+    </Grid>
+</Window>

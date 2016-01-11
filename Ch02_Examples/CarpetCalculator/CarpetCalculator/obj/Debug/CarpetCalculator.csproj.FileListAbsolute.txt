@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\Ch02\Ch02_Examples\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.exe.config
+C:\CSharp_4thEdition\Ch02\Ch02_Examples\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.exe
+C:\CSharp_4thEdition\Ch02\Ch02_Examples\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.pdb
+C:\CSharp_4thEdition\Ch02\Ch02_Examples\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch02\Ch02_Examples\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.exe
+C:\CSharp_4thEdition\Ch02\Ch02_Examples\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.pdb

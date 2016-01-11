@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\DirectoryStructure\DirectoryStructure\bin\Debug\DirectoryStructure.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\DirectoryStructure\DirectoryStructure\bin\Debug\DirectoryStructure.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\DirectoryStructure\DirectoryStructure\bin\Debug\DirectoryStructure.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.pdb
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\DirectoryStructure\DirectoryStructure\bin\Debug\DirectoryStructure.exe.config
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.exe
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.pdb
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\DirectoryStructure\DirectoryStructure\bin\Debug\DirectoryStructure.exe
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\DirectoryStructure\DirectoryStructure\bin\Debug\DirectoryStructure.pdb
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\DirectoryStructure\DirectoryStructure\obj\Debug\DirectoryStructure.csprojResolveAssemblyReference.cache

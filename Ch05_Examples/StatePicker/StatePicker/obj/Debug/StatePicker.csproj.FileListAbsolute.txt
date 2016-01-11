@@ -1,0 +1,8 @@
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\StatePicker\StatePicker\bin\Debug\StatePicker.exe.config
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\StatePicker\StatePicker\bin\Debug\StatePicker.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\StatePicker\StatePicker\bin\Debug\StatePicker.pdb
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\StatePicker\StatePicker\obj\Debug\StatePicker.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Examples\StatePicker\StatePicker\obj\Debug\StatePicker.pdb
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Examples\StatePicker\StatePicker\bin\Debug\StatePicker.exe.config
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Examples\StatePicker\StatePicker\obj\Debug\StatePicker.exe
+C:\CSharp_4thEdition\RTP\Ch05\Ch05_Examples\StatePicker\StatePicker\obj\Debug\StatePicker.pdb

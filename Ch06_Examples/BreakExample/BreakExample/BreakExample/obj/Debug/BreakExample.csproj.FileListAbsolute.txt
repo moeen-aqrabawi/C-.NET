@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\BreakExample\BreakExample\BreakExample\bin\Debug\BreakExample.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\BreakExample\BreakExample\BreakExample\bin\Debug\BreakExample.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\BreakExample\BreakExample\BreakExample\bin\Debug\BreakExample.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\BreakExample\BreakExample\BreakExample\obj\Debug\BreakExample.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\BreakExample\BreakExample\BreakExample\obj\Debug\BreakExample.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\BreakExample\BreakExample\BreakExample\obj\Debug\BreakExample.pdb

@@ -1,0 +1,11 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\InputEndPointsWithWhile\InputEndPointsWithWhile\bin\Debug\InputEndPointsWithWhile.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\InputEndPointsWithWhile\InputEndPointsWithWhile\bin\Debug\InputEndPointsWithWhile.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\InputEndPointsWithWhile\InputEndPointsWithWhile\bin\Debug\InputEndPointsWithWhile.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\InputEndPointsWithWhile\InputEndPointsWithWhile\obj\Debug\InputEndPointsWithWhile.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\InputEndPointsWithWhile\InputEndPointsWithWhile\obj\Debug\InputEndPointsWithWhile.pdb
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\InputEndPointsWithWhile\InputEndPointsWithWhile\bin\Debug\InputEndPointsWithWhile.exe.config
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\InputEndPointsWithWhile\InputEndPointsWithWhile\obj\Debug\InputEndPointsWithWhile.exe
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\InputEndPointsWithWhile\InputEndPointsWithWhile\obj\Debug\InputEndPointsWithWhile.pdb
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\InputEndPointsWithWhile\InputEndPointsWithWhile\bin\Debug\InputEndPointsWithWhile.exe
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\InputEndPointsWithWhile\InputEndPointsWithWhile\bin\Debug\InputEndPointsWithWhile.pdb
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\InputEndPointsWithWhile\InputEndPointsWithWhile\obj\Debug\InputEndPointsWithWhile.csprojResolveAssemblyReference.cache

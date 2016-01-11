@@ -1,0 +1,5 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\ForeachExample\ForeachExample\bin\Debug\ForeachExample.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\ForeachExample\ForeachExample\bin\Debug\ForeachExample.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\ForeachExample\ForeachExample\bin\Debug\ForeachExample.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\ForeachExample\ForeachExample\obj\Debug\ForeachExample.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\ForeachExample\ForeachExample\obj\Debug\ForeachExample.pdb

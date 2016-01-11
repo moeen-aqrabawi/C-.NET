@@ -1,0 +1,8 @@
+C:\CSharpProjects\HelloWorldProgram\HelloWorldProgram\bin\Debug\HelloWorldProgram.exe.config
+C:\CSharpProjects\HelloWorldProgram\HelloWorldProgram\bin\Debug\HelloWorldProgram.exe
+C:\CSharpProjects\HelloWorldProgram\HelloWorldProgram\bin\Debug\HelloWorldProgram.pdb
+C:\CSharpProjects\HelloWorldProgram\HelloWorldProgram\obj\Debug\HelloWorldProgram.csprojResolveAssemblyReference.cache
+C:\CSharpProjects\HelloWorldProgram\HelloWorldProgram\obj\Debug\HelloWorldProgram.exe
+C:\CSharpProjects\HelloWorldProgram\HelloWorldProgram\obj\Debug\HelloWorldProgram.pdb
+C:\CSharpProjects\Ch01\HelloWorldProgram\HelloWorldProgram\bin\Debug\HelloWorldProgram.exe.config
+C:\CSharpProjects\Ch01\HelloWorldProgram\HelloWorldProgram\obj\Debug\HelloWorldProgram.exe

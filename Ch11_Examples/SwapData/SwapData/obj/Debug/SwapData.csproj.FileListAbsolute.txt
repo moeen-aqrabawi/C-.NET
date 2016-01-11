@@ -1,0 +1,8 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\SwapData\SwapData\bin\Debug\SwapData.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\SwapData\SwapData\bin\Debug\SwapData.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\SwapData\SwapData\bin\Debug\SwapData.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\SwapData\SwapData\obj\Debug\SwapData.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\SwapData\SwapData\obj\Debug\SwapData.pdb
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\SwapData\SwapData\bin\Debug\SwapData.exe.config
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\SwapData\SwapData\obj\Debug\SwapData.exe
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Examples\SwapData\SwapData\obj\Debug\SwapData.pdb

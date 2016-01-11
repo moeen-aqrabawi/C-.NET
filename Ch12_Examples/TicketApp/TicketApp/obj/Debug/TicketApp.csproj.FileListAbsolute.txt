@@ -1,0 +1,10 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\TicketApp\TicketApp\bin\Debug\TicketApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\TicketApp\TicketApp\bin\Debug\TicketApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\TicketApp\TicketApp\bin\Debug\TicketApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\TicketApp\TicketApp\obj\Debug\TicketApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch12\Ch12_Examples\TicketApp\TicketApp\obj\Debug\TicketApp.pdb
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\TicketApp\TicketApp\bin\Debug\TicketApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\TicketApp\TicketApp\obj\Debug\TicketApp.exe
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\TicketApp\TicketApp\obj\Debug\TicketApp.pdb
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\TicketApp\TicketApp\bin\Debug\TicketApp.exe
+C:\CSharp_4thEdition\RTP\Ch12\Ch12_Examples\TicketApp\TicketApp\bin\Debug\TicketApp.pdb

@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\BinaryFileAccess\BinaryFileAccess\bin\Debug\BinaryFileAccess.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\BinaryFileAccess\BinaryFileAccess\bin\Debug\BinaryFileAccess.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\BinaryFileAccess\BinaryFileAccess\bin\Debug\BinaryFileAccess.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\BinaryFileAccess\BinaryFileAccess\obj\Debug\BinaryFileAccess.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\BinaryFileAccess\BinaryFileAccess\obj\Debug\BinaryFileAccess.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Examples\BinaryFileAccess\BinaryFileAccess\obj\Debug\BinaryFileAccess.pdb
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\BinaryFileAccess\BinaryFileAccess\bin\Debug\BinaryFileAccess.exe.config
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\BinaryFileAccess\BinaryFileAccess\obj\Debug\BinaryFileAccess.exe
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\BinaryFileAccess\BinaryFileAccess\obj\Debug\BinaryFileAccess.pdb
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\BinaryFileAccess\BinaryFileAccess\bin\Debug\BinaryFileAccess.exe
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\BinaryFileAccess\BinaryFileAccess\bin\Debug\BinaryFileAccess.pdb
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Examples\BinaryFileAccess\BinaryFileAccess\obj\Debug\BinaryFileAccess.csprojResolveAssemblyReference.cache

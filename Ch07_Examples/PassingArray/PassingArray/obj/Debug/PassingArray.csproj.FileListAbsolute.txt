@@ -1,0 +1,11 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\PassingArray\PassingArray\bin\Debug\PassingArray.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\PassingArray\PassingArray\bin\Debug\PassingArray.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\PassingArray\PassingArray\bin\Debug\PassingArray.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\PassingArray\PassingArray\obj\Debug\PassingArray.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\PassingArray\PassingArray\obj\Debug\PassingArray.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\PassingArray\PassingArray\bin\Debug\PassingArray.exe.config
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\PassingArray\PassingArray\obj\Debug\PassingArray.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\PassingArray\PassingArray\obj\Debug\PassingArray.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\PassingArray\PassingArray\bin\Debug\PassingArray.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\PassingArray\PassingArray\bin\Debug\PassingArray.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\PassingArray\PassingArray\obj\Debug\PassingArray.csprojResolveAssemblyReference.cache

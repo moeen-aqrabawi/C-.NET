@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\PlayerApp\PlayerApp\bin\Debug\PlayerApp.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\PlayerApp\PlayerApp\bin\Debug\PlayerApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\PlayerApp\PlayerApp\bin\Debug\PlayerApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\PlayerApp\PlayerApp\obj\Debug\PlayerApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\PlayerApp\PlayerApp\obj\Debug\PlayerApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\PlayerApp\PlayerApp\obj\Debug\PlayerApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\PlayerApp\PlayerApp\bin\Debug\PlayerApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\PlayerApp\PlayerApp\obj\Debug\PlayerApp.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\PlayerApp\PlayerApp\obj\Debug\PlayerApp.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\PlayerApp\PlayerApp\bin\Debug\PlayerApp.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\PlayerApp\PlayerApp\bin\Debug\PlayerApp.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\PlayerApp\PlayerApp\obj\Debug\PlayerApp.csprojResolveAssemblyReference.cache

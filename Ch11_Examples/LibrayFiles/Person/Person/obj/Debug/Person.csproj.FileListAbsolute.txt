@@ -1,0 +1,4 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Person\Person\bin\Debug\Person.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Person\Person\bin\Debug\Person.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Person\Person\obj\Debug\Person.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Person\Person\obj\Debug\Person.pdb

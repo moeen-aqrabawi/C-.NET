@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\AverageDiff\AverageDiff\bin\Debug\AverageDiff.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\AverageDiff\AverageDiff\bin\Debug\AverageDiff.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\AverageDiff\AverageDiff\bin\Debug\AverageDiff.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\AverageDiff\AverageDiff\obj\Debug\AverageDiff.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\AverageDiff\AverageDiff\obj\Debug\AverageDiff.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\AverageDiff\AverageDiff\obj\Debug\AverageDiff.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\AverageDiff\AverageDiff\bin\Debug\AverageDiff.exe.config
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\AverageDiff\AverageDiff\obj\Debug\AverageDiff.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\AverageDiff\AverageDiff\obj\Debug\AverageDiff.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\AverageDiff\AverageDiff\bin\Debug\AverageDiff.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\AverageDiff\AverageDiff\bin\Debug\AverageDiff.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\AverageDiff\AverageDiff\obj\Debug\AverageDiff.csprojResolveAssemblyReference.cache

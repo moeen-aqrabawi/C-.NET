@@ -1,0 +1,10 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\UnknownSize\UnknownSize\bin\Debug\UnknownSize.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\UnknownSize\UnknownSize\bin\Debug\UnknownSize.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\UnknownSize\UnknownSize\bin\Debug\UnknownSize.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\UnknownSize\UnknownSize\obj\Debug\UnknownSize.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\UnknownSize\UnknownSize\obj\Debug\UnknownSize.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\UnknownSize\UnknownSize\bin\Debug\UnknownSize.exe.config
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\UnknownSize\UnknownSize\obj\Debug\UnknownSize.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\UnknownSize\UnknownSize\obj\Debug\UnknownSize.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\UnknownSize\UnknownSize\bin\Debug\UnknownSize.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\UnknownSize\UnknownSize\bin\Debug\UnknownSize.pdb

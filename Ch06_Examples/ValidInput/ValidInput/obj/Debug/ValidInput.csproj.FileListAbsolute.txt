@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\ValidInput\ValidInput\bin\Debug\ValidInput.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\ValidInput\ValidInput\bin\Debug\ValidInput.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\ValidInput\ValidInput\bin\Debug\ValidInput.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\ValidInput\ValidInput\obj\Debug\ValidInput.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\ValidInput\ValidInput\obj\Debug\ValidInput.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\ValidInput\ValidInput\obj\Debug\ValidInput.pdb

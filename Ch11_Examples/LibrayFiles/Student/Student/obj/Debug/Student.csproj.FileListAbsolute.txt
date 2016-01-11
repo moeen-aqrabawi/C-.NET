@@ -1,0 +1,7 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Student\Student\bin\Debug\Student.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Student\Student\bin\Debug\Student.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Student\Student\bin\Debug\Person.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Student\Student\bin\Debug\Person.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Student\Student\obj\Debug\Student.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\Student\Student\obj\Debug\Student.pdb

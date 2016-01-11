@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.exe
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.pdb
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.csprojResolveAssemblyReference.cache

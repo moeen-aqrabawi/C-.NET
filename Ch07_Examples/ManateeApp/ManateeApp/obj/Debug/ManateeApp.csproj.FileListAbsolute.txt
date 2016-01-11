@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\ManateeApp\ManateeApp\bin\Debug\ManateeApp.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\ManateeApp\ManateeApp\bin\Debug\ManateeApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\ManateeApp\ManateeApp\bin\Debug\ManateeApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\ManateeApp\ManateeApp\obj\Debug\ManateeApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\ManateeApp\ManateeApp\obj\Debug\ManateeApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Examples\ManateeApp\ManateeApp\obj\Debug\ManateeApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\ManateeApp\ManateeApp\bin\Debug\ManateeApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\ManateeApp\ManateeApp\obj\Debug\ManateeApp.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\ManateeApp\ManateeApp\obj\Debug\ManateeApp.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\ManateeApp\ManateeApp\bin\Debug\ManateeApp.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\ManateeApp\ManateeApp\bin\Debug\ManateeApp.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Examples\ManateeApp\ManateeApp\obj\Debug\ManateeApp.csprojResolveAssemblyReference.cache
